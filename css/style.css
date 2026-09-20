@@ -4,6 +4,7 @@ td, th {
 .line {
   display: block;
   text-align: center;
+  font-size: 1.8em;
 }
 .anta-regular {
   font-family: "Anta", sans-serif;
