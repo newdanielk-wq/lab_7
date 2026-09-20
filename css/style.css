@@ -1,5 +1,5 @@
 td, th {
-	border: 2px solid;
+	border: 3px solid;
   }
 .line {
   display: block;
@@ -11,14 +11,15 @@ td, th {
   font-weight: 400;
   font-style: normal;
 }
-h1{
+h1 {
   font-family: "Anta", Arial, sans-serif;
   text-align: center;
+  text-decoration: underline;
 }
 .p-names {
   font-size: 200%;
 }
-.fact-headers{
+.fact-headers {
   font-family: "Anta", Arial, sans-serif;
   text-align: center;
   font-style: italic;
@@ -27,6 +28,12 @@ h1{
 .yellow {
   background-color: yellow;
 }
-.red{
+.red {
   background-color: red;
+}
+.brown {
+  background-color: brown;
+}
+.orange {
+  background-color: darkorange;
 }
