@@ -3,4 +3,17 @@ td, th {
   }
 .line {
   display: block;
+  text-align: center;
+}
+.anta-regular {
+  font-family: "Anta", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h1{
+  font-family: "Anta", Arial, sans-serif;
+  text-align: center;
+}
+.p-names {
+  font-size: 200%;
 }
