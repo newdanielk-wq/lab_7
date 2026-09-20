@@ -18,3 +18,15 @@ h1{
 .p-names {
   font-size: 200%;
 }
+.fact-headers{
+  font-family: "Anta", Arial, sans-serif;
+  text-align: center;
+  font-style: italic;
+  font-size: 1.3em;
+}
+.yellow {
+  background-color: yellow;
+}
+.red{
+  background-color: red;
+}
